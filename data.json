@@ -1,0 +1,11 @@
+{
+    "aboutText": "Hey, good to see you here. So, you already know that I am a brazilian multidisciplinary designer and web developer, right? Well, let me tell you a little more. I like the intersection between art and technology, so I discovered myself as a front-end developer, although I like to participate in all stages of project development, feeling comfortable both in UI/UX when in programming. I am currently working as a freelancer and willing to work with cool projects anywhere in the world. Anyway, nice to meet you. ✌️",
+    "randomFacts": [
+        { "awardsWon" : 0 },
+        { "pets": 3 },
+        { "books": 56 }
+    ],
+    "firstDayUsingLinux": "2020-01-20",
+    "firstYearWorking": "2014-10-01",
+    "birthDate": "1996-05-05"
+}
